@@ -1,2 +1,2 @@
-# AngularUintTesting
+# AngularUnitTesting
 Angular Unit testing examples
